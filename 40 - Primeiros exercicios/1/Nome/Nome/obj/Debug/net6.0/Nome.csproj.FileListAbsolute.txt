@@ -1,0 +1,15 @@
+C:\Users\joaov\Desktop\CURSO DE C#\40 - Primeiros exercicios\1\Nome\Nome\bin\Debug\net6.0\Nome.exe
+C:\Users\joaov\Desktop\CURSO DE C#\40 - Primeiros exercicios\1\Nome\Nome\bin\Debug\net6.0\Nome.deps.json
+C:\Users\joaov\Desktop\CURSO DE C#\40 - Primeiros exercicios\1\Nome\Nome\bin\Debug\net6.0\Nome.runtimeconfig.json
+C:\Users\joaov\Desktop\CURSO DE C#\40 - Primeiros exercicios\1\Nome\Nome\bin\Debug\net6.0\Nome.dll
+C:\Users\joaov\Desktop\CURSO DE C#\40 - Primeiros exercicios\1\Nome\Nome\bin\Debug\net6.0\Nome.pdb
+C:\Users\joaov\Desktop\CURSO DE C#\40 - Primeiros exercicios\1\Nome\Nome\obj\Debug\net6.0\Nome.csproj.AssemblyReference.cache
+C:\Users\joaov\Desktop\CURSO DE C#\40 - Primeiros exercicios\1\Nome\Nome\obj\Debug\net6.0\Nome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\Desktop\CURSO DE C#\40 - Primeiros exercicios\1\Nome\Nome\obj\Debug\net6.0\Nome.AssemblyInfoInputs.cache
+C:\Users\joaov\Desktop\CURSO DE C#\40 - Primeiros exercicios\1\Nome\Nome\obj\Debug\net6.0\Nome.AssemblyInfo.cs
+C:\Users\joaov\Desktop\CURSO DE C#\40 - Primeiros exercicios\1\Nome\Nome\obj\Debug\net6.0\Nome.csproj.CoreCompileInputs.cache
+C:\Users\joaov\Desktop\CURSO DE C#\40 - Primeiros exercicios\1\Nome\Nome\obj\Debug\net6.0\Nome.dll
+C:\Users\joaov\Desktop\CURSO DE C#\40 - Primeiros exercicios\1\Nome\Nome\obj\Debug\net6.0\refint\Nome.dll
+C:\Users\joaov\Desktop\CURSO DE C#\40 - Primeiros exercicios\1\Nome\Nome\obj\Debug\net6.0\Nome.pdb
+C:\Users\joaov\Desktop\CURSO DE C#\40 - Primeiros exercicios\1\Nome\Nome\obj\Debug\net6.0\Nome.genruntimeconfig.cache
+C:\Users\joaov\Desktop\CURSO DE C#\40 - Primeiros exercicios\1\Nome\Nome\obj\Debug\net6.0\ref\Nome.dll

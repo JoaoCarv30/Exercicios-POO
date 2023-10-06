@@ -1,0 +1,15 @@
+C:\Users\joaov\Desktop\CURSO DE C#\42 - Segundo exemplo\EX42\EX42\bin\Debug\net6.0\EX42.exe
+C:\Users\joaov\Desktop\CURSO DE C#\42 - Segundo exemplo\EX42\EX42\bin\Debug\net6.0\EX42.deps.json
+C:\Users\joaov\Desktop\CURSO DE C#\42 - Segundo exemplo\EX42\EX42\bin\Debug\net6.0\EX42.runtimeconfig.json
+C:\Users\joaov\Desktop\CURSO DE C#\42 - Segundo exemplo\EX42\EX42\bin\Debug\net6.0\EX42.dll
+C:\Users\joaov\Desktop\CURSO DE C#\42 - Segundo exemplo\EX42\EX42\bin\Debug\net6.0\EX42.pdb
+C:\Users\joaov\Desktop\CURSO DE C#\42 - Segundo exemplo\EX42\EX42\obj\Debug\net6.0\EX42.csproj.AssemblyReference.cache
+C:\Users\joaov\Desktop\CURSO DE C#\42 - Segundo exemplo\EX42\EX42\obj\Debug\net6.0\EX42.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\Desktop\CURSO DE C#\42 - Segundo exemplo\EX42\EX42\obj\Debug\net6.0\EX42.AssemblyInfoInputs.cache
+C:\Users\joaov\Desktop\CURSO DE C#\42 - Segundo exemplo\EX42\EX42\obj\Debug\net6.0\EX42.AssemblyInfo.cs
+C:\Users\joaov\Desktop\CURSO DE C#\42 - Segundo exemplo\EX42\EX42\obj\Debug\net6.0\EX42.csproj.CoreCompileInputs.cache
+C:\Users\joaov\Desktop\CURSO DE C#\42 - Segundo exemplo\EX42\EX42\obj\Debug\net6.0\EX42.dll
+C:\Users\joaov\Desktop\CURSO DE C#\42 - Segundo exemplo\EX42\EX42\obj\Debug\net6.0\refint\EX42.dll
+C:\Users\joaov\Desktop\CURSO DE C#\42 - Segundo exemplo\EX42\EX42\obj\Debug\net6.0\EX42.pdb
+C:\Users\joaov\Desktop\CURSO DE C#\42 - Segundo exemplo\EX42\EX42\obj\Debug\net6.0\EX42.genruntimeconfig.cache
+C:\Users\joaov\Desktop\CURSO DE C#\42 - Segundo exemplo\EX42\EX42\obj\Debug\net6.0\ref\EX42.dll
